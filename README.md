@@ -3,7 +3,7 @@
 
 This repository contains the complete SQL analysis from my **#30DaysOfSQL** LinkedIn series, where I answered 25 structured business questions across a beverage sales dataset using Microsoft SQL Server.
 
-The goal was simple — practice SQL by asking real business questions on real data, and document every finding in public. What emerged was a complete end-to-end analytical case study covering six analytical segments.
+The goal was simple practice SQL by asking real business questions on real data, and document every finding in public. What emerged was a complete end-to-end analytical case study covering six analytical segments.
 
 ---
 
@@ -39,10 +39,10 @@ sql-beverage-sales-analysis/
 
 - **Veuve Clicquot and Moët & Chandon** generate 32%+ of total product revenue and lead in 15 of 16 regions
 - **Top 5 customers** contribute ~33% of total revenue
-- **B2B customers** generate nearly 6× more revenue per order than B2C — driven entirely by volume, not price
+- **B2B customers** generate nearly 6× more revenue per order than B2C, driven entirely by volume, not price
 - **Discount-quantity correlation** is 0.82 — discounts are strongly associated with larger orders
 - **Every product** shows revenue loss versus full-price potential despite higher overall revenue under discounting
-- **Alcoholic Beverages** generates 18.94 in revenue per unit — nearly 7× more than Juices and 18× more than Water
+- **Alcoholic Beverages** generates 18.94 in revenue per unit, nearly 7× more than Juices and 18× more than Water
 - **February** consistently underperforms every year; **July–August** consistently peaks
 - **Hamburg × Alcoholic Beverages** is the single most profitable region-category combination
 - **100% of customers** are repeat buyers across all 10,000 accounts
